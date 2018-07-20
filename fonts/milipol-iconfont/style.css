@@ -1,0 +1,132 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('icomoon.eot?40m8to');
+    src:    url('icomoon.eot?40m8to#iefix') format('embedded-opentype'),
+        url('icomoon.ttf?40m8to') format('truetype'),
+        url('icomoon.woff?40m8to') format('woff'),
+        url('icomoon.svg?40m8to#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-infospratiques:before {
+    content: "\e921";
+}
+.icon-presse:before {
+    content: "\e922";
+}
+.icon-home:before {
+    content: "\e920";
+}
+.icon-menu-alt:before {
+    content: "\e91f";
+}
+.icon-right-arrow:before {
+    content: "\e91d";
+}
+.icon-facebook-placeholder-for-locate-places-on-maps:before {
+    content: "\e91e";
+}
+.icon-journaliste:before {
+    content: "\e919";
+}
+.icon-visiteur:before {
+    content: "\e91a";
+}
+.icon-puce_chevron_bleu:before {
+    content: "\e91b";
+}
+.icon-puce_orange-1:before {
+    content: "\e91c";
+}
+.icon-chevron:before {
+    content: "\e916";
+}
+.icon-delete:before {
+    content: "\e917";
+}
+.icon-etoile:before {
+    content: "\e918";
+}
+.icon-facebook:before {
+    content: "\e913";
+}
+.icon-pinterest:before {
+    content: "\e914";
+}
+.icon-twitter:before {
+    content: "\e915";
+}
+.icon-observatoire:before {
+    content: "\e911";
+}
+.icon-international:before {
+    content: "\e912";
+}
+.icon-business:before {
+    content: "\e909";
+}
+.icon-liste-exposants:before {
+    content: "\e90a";
+}
+.icon-medias:before {
+    content: "\e90b";
+}
+.icon-news:before {
+    content: "\e90c";
+}
+.icon-plan:before {
+    content: "\e90d";
+}
+.icon-programme:before {
+    content: "\e90e";
+}
+.icon-appli:before {
+    content: "\e90f";
+}
+.icon-brochure:before {
+    content: "\e910";
+}
+.icon-exposant:before {
+    content: "\e901";
+}
+.icon-sponsors:before {
+    content: "\e902";
+}
+.icon-ateliers:before {
+    content: "\e903";
+}
+.icon-startup:before {
+    content: "\e904";
+}
+.icon-conf:before {
+    content: "\e905";
+}
+.icon-demo:before {
+    content: "\e906";
+}
+.icon-stand:before {
+    content: "\e907";
+}
+.icon-rdv:before {
+    content: "\e908";
+}
+.icon-search:before {
+    content: "\e900";
+}
+
