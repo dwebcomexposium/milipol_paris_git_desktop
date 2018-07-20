@@ -387,7 +387,7 @@ HEADER
   display: inline-block;
   width: 26px;
   height: 17px;
-  background:  url("/theme/milipol_paris_desktop/images/flag-fr.jpg") 0 0 no-repeat;
+  background:  url("/theme/milipol_paris_git_desktop/images/flag-fr.jpg") 0 0 no-repeat;
   vertical-align: middle;
 }
 [lang="en"] .ls-trigger:before,
@@ -397,7 +397,7 @@ HEADER
   display: inline-block;
   width: 26px;
   height: 17px;
-  background:  url("/theme/milipol_paris_desktop/images/flag-en.jpg") 0 0 no-repeat;
+  background:  url("/theme/milipol_paris_git_desktop/images/flag-en.jpg") 0 0 no-repeat;
   vertical-align: middle;
 }
 .flag-display img {
