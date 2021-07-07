@@ -169,3 +169,14 @@ i.icon:before {
 .content372407 .article-wrapper .article-content {
     max-width: 93rem;
 }
+
+/*new catalog*/
+
+#catalog-v2 .bgTint {
+    background-color: #1e4f8f!important;
+}
+/*Mise en avant RS*/
+#catalog-v2 .CatalogCard-title.CatalogCard-title--premium {
+    background: #1e4f8f!important;
+}
+
