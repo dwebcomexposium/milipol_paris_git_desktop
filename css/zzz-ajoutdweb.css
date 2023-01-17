@@ -1,4 +1,7 @@
-figure.center{
+@charset "utf-8";
+/* CSS Document */
+
+/*figure.center{
 	text-align: center;
 }
 a {color:#1e4f8f;}
@@ -49,11 +52,6 @@ a:active, a:hover, a:focus {color: #5cbcff;}
 
 
 
-
-
-
-
-/*Font icons*/
 @font-face {
   font-family: 'icomoon';
   src:    url('fonts/milipol-iconfont/zzzicomoon.eot?iwp27p');
@@ -170,13 +168,11 @@ i.icon:before {
     max-width: 93rem;
 }
 
-/*new catalog*/
 
 #catalog-v2 .bgTint {
     background-color: #e8f2ff!important;
 }
-/*Mise en avant RS*/
 #catalog-v2 .CatalogCard-title.CatalogCard-title--premium {
     background: #1E4F8F!important;
-}
+}*/ 
 
